@@ -120,7 +120,7 @@
                 {
                     case 1:
                         // Continue with the next assignment
-                        Console.WriteLine("Thanks! Continuing with the next assignment...");
+                        Console.WriteLine("Thanks! Continuing with the assignment...");
                         break;
                     case 2:
                         // Exit the program
